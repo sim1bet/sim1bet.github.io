@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Complete CV](https://github.com/sim1bet/Files/blob/master/CV.pdf)
-
 Education
 ======
 * Ph.D in Information Engineering, University of Padova, 2022-
@@ -24,5 +22,7 @@ Skills
 * Programming Languages:
   * Python
   * Matlab
-  * LaTex 
+  * LaTex
+ 
+[Complete CV](https://github.com/sim1bet/Files/blob/master/CV.pdf)
 
