@@ -20,7 +20,7 @@ You can click on my Flickr account to see pictures from some of my adventures (s
 
 # Music
 
-I consider myself an eclectic listener, as you can observe from my [Spotify](https://open.spotify.com/user/smnbet22).
+I consider myself an eclectic listener.
 
 Mostly, you can find me listening to instrumental music that ranges from techno to metal, passing through classical music and jazz.
 
