@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. student in Information Engineering at the University of Padua under the supervision of Prof. [Sandro Zampieri](https://scholar.google.it/citations?user=nq1QPJ0AAAAJ&hl=en), and co-supervised by Prof. [Giacomo Baggio](https://baggiogi.github.io/) and Prof. [Francesco Bullo](https://fbullo.github.io/). I am currently working on the mathematical analysis of recurrent neural network models, such as the Hopfield model and the firing rate model, using both standard algebraic tools for nonlinear systems and stochastic tools (S.D.E.s, Elliptic P.D.E.s, and Path integrals). 
 
 A data-driven personal website
 ======
