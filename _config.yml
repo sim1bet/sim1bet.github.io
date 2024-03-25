@@ -21,7 +21,7 @@ repository               : "sim1bet/sim1bet.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ProfileSite.png"
+  avatar           : "profile.png"
   name             : "Simone Betteti"
   pronouns         : # example: "she/her"  
   bio              : #
