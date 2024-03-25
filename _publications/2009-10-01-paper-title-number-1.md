@@ -6,5 +6,5 @@ excerpt: 'This is the official pubblication of my M.S. thesis of the University 
 date: 2022-04-21
 venue: 'Unipd Thesis'
 paperurl: 'https://thesis.unipd.it/handle/20.500.12608/29604'
-citation: 'Simone Betteti. (2022). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Simone Betteti. (2022)'
 ---
