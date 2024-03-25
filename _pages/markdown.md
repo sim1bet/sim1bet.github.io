@@ -16,7 +16,7 @@ I have been dancing Salsa and Bachata for the last six years on a weekly basis, 
 During winter, I spend most of my weekends skiing in the Dolomites and enjoying snow/ice related activities. During summer, I spend most of my weekends mountaneering in the Italian alps, summiting a few peaks here and there.
 I also enjoy climbing in my spare time.
 
-You can click on my Flickr account to see pictures from some of my adventures (shot with a Sony RX100-III), or on my Youtube channel for related videos (shot with the GoPro10). 
+You can click on my Flickr account to see pictures from some of my adventures (shot with a Sony RX100-III), or on my Youtube channel for the related videos (shot with the GoPro10). 
 
 # Music
 
