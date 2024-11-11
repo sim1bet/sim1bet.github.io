@@ -18,24 +18,34 @@ During winter, I spend most of my weekends skiing in the Dolomites and enjoying 
 I also enjoy climbing in my spare time.
 
 **Alpinism**
+My friend Marco and I at Capanna Margherita, on top of Mt. Rosa (4554 m).
 ![Capanna Margherita](Hobbies/photo_2024-11-11_14-18-54.jpg)
+My friend Marco and I on top of Mt. Adamello (3539 m).
 ![Mt. Adamello](Hobbies/IMG_3483.jpg)
+My friend Marco and I on top of Mt. Cevedale (3769 m).
 ![Mt. Cevedale](Hobbies/IMG_3565.jpg)
+A shot while climbing the Ferrata Bolver Luigi in the Pale of San Martino group.
 ![Pale di San Martino](Hobbies/IMG_3937.jpg)
 
 You can click on my Flickr account to see pictures from some of my adventures (shot with a Sony RX100-III), or on my Youtube channel for the related videos (shot with the GoPro10). 
 
 **Landscape Photography**
+Sunset and nightsky in Yellowstone, California.
 ![Night1](Hobbies/Night1.jpg)
 ![Night3](Hobbies/Night3.jpg)
 ![Sunset](Hobbies/Sunset.jpg)
+Shots from Punta Gniffetti, on top of Mt. Rosa, Italy.
 ![MonteRosa](Hobbies/MonteRosa.jpg)
 ![MonteRosa2](Hobbies/MonteRosa2.jpg)
+A golden sunset shot from Santa Barbara beach, California.
 ![SantaBarbara](Hobbies/SantaBa.jpg)
+Two great sunrise shots from Marmolada, Italy.
 ![Marmolada1](Hobbies/Marmolada1.jpg)
 ![Marmolada2](Hobbies/Marmolada2.jpg)
+An artistic shot of the beautiful Cortina and the surrounding Cadore valley, with the frozen Croda da Lago lake.
 ![Cortina](Hobbies/Cortina.jpg)
 ![CrodaDaLago](Hobbies/CrodaDaLago.jpg)
+Emerging tree on Plitvice lake.
 ![Plitvice](Hobbies/Plitvice.jpg)
 
 # Music
