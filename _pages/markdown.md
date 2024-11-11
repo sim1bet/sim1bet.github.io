@@ -25,6 +25,19 @@ I also enjoy climbing in my spare time.
 
 You can click on my Flickr account to see pictures from some of my adventures (shot with a Sony RX100-III), or on my Youtube channel for the related videos (shot with the GoPro10). 
 
+**Landscape Photography**
+![Night1](Hobbies/Night1.jpg)
+![Night3](Hobbies/Night3.jpg)
+![Sunset](Hobbies/Sunset.jpg)
+![MonteRosa](Hobbies/MonteRosa.jpg)
+![MonteRosa2](Hobbies/MonteRosa2.jpg)
+![SantaBarbara](Hobbies/SantaBa.jpg)
+![Marmolada1](Hobbies/Marmolada.jpg)
+![Marmolada2](Hobbies/Mamrolada2.jpg)
+![Cortina](Hobbies/Cortina.jpg)
+![CrodaDaLago](Hobbies/CrodaDaLago.jpg)
+![Plitvice](Hobbies/Plitvice.jpg)
+
 # Music
 
 I consider myself an eclectic listener.
