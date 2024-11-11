@@ -18,6 +18,7 @@ During winter, I spend most of my weekends skiing in the Dolomites and enjoying 
 I also enjoy climbing in my spare time.
 
 **Alpinism**
+
 My friend Marco and I at Capanna Margherita, on top of Mt. Rosa (4554 m).
 ![Capanna Margherita](Hobbies/photo_2024-11-11_14-18-54.jpg)
 My friend Marco and I on top of Mt. Adamello (3539 m).
@@ -30,6 +31,7 @@ A shot while climbing the Ferrata Bolver Luigi in the Pale of San Martino group.
 You can click on my Flickr account to see pictures from some of my adventures (shot with a Sony RX100-III), or on my Youtube channel for the related videos (shot with the GoPro10). 
 
 **Landscape Photography**
+
 Sunset and nightsky in Yellowstone, California.
 ![Night1](Hobbies/Night1.jpg)
 ![Night3](Hobbies/Night3.jpg)
