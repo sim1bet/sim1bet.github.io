@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+description: "Personal website of Simone Betteti, a PhD student."
 author_profile: true
 redirect_from: 
   - /about/
