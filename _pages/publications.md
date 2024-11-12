@@ -11,7 +11,7 @@ author_profile: true
 * Betteti, S., Baggio, G., and Zampieri, S. (2024), "_On the capacity of continuous-time Hopfield models_", 2024 63rd IEEE Conference on Decision and Control (Accepted).
 
 # Pre-prints
-* Betteti S., Baggio G., Bullo F., and Zampieri S. (2024), "_Input-Driven Dynamics for Robust Memory Retrieval in Hopfield Networks_", arXiv.
+* Betteti S., Baggio G., Bullo F., and Zampieri S. (2024), ["_Input-Driven Dynamics for Robust Memory Retrieval in Hopfield Networks_"](https://arxiv.org/abs/2411.05849), arXiv.
 * Betteti S., Baggio G., Bullo F., and Zampieri S. (2024), "_Firing Rate Models as Associative Memory: Excitatory-Inhibitory Balance for Robust Retrieval_", arXiv.
 
 # Thesis
