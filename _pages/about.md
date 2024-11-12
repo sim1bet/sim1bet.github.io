@@ -18,4 +18,4 @@ My academic goal is understanding how complex cognitive functions emerge from th
 I have lived most of my life in Italy, but throughout the years I have had short stays in the following cities:
 * Auckland, New Zealand (2013) - Exchange student at Birkenhead college, 6 months
 * Trondheim, Norway (2021) - Erasmus student at NTNU under the supervision of Prof. [Yasser Roudi](https://scholar.google.com/citations?user=-SXPaeYAAAAJ&hl=en), 6 months
-* Santa Barbara, CA, USA (2024-2025) - Visiting PhD student at UCSB under the supervision of Prof. [Francesco Bullo](https://fbullo.github.io/)
+* Santa Barbara, CA, USA (2024-2025) - Visiting PhD student at UCSB under the supervision of Prof. [Francesco Bullo](https://fbullo.github.io/), 9 months
