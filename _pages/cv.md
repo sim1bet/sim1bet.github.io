@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Information Engineering, University of Padova, 2022-
-* M.S. in Mathematical Engineering, University of Padova, 2019-2022
-* B.S. in Psychological Science, University of Padova, 2016-2019
+* M.Sc. in Mathematical Engineering, University of Padova, 2019-2022
+* B.Sc. in Psychological Science, University of Padova, 2016-2019
   
 Skills
 ======
