@@ -12,7 +12,7 @@ author_profile: true
 
 # Pre-prints
 * Betteti S., Baggio G., Bullo F., and Zampieri S. (2024), ["_Input-Driven Dynamics for Robust Memory Retrieval in Hopfield Networks_"](https://arxiv.org/abs/2411.05849), arXiv.
-* Betteti S., Baggio G., Bullo F., and Zampieri S. (2024), "_Firing Rate Models as Associative Memory: Excitatory-Inhibitory Balance for Robust Retrieval_", arXiv.
+* Betteti S., Baggio G., Bullo F., and Zampieri S. (2024), ["_Firing Rate Models as Associative Memory: Excitatory-Inhibitory Balance for Robust Retrieval_"](https://arxiv.org/abs/2411.07388), arXiv.
 
 # Thesis
 * Simone Betteti (2022), [_"The Relationship between Multiscale Relevance and Network Properties in Simple Neural Networks of the Cortex"_](https://github.com/sim1bet/M.Sc.-Thesis/blob/main/TheRelationshipBetweenMSRandSimpleNNofTheCortex.pdf).
