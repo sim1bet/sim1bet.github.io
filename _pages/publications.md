@@ -8,7 +8,7 @@ author_profile: true
 # Journal publications
 
 # Conference publications
-* Betteti, S., Baggio, G., and Zampieri, S. (2024), "_On the capacity of continuous-time Hopfield models_", 2024 63rd IEEE Conference on Decision and Control (Accepted).
+* Betteti, S., Baggio, G., and Zampieri, S. (2024), ["_On the capacity of continuous-time Hopfield models_"](https://ieeexplore.ieee.org/document/10886497), 2024 63rd IEEE Conference on Decision and Control.
 
 # Pre-prints
 * Betteti S., Baggio G., Bullo F., and Zampieri S. (2024), ["_Input-Driven Dynamics for Robust Memory Retrieval in Hopfield Networks_"](https://arxiv.org/abs/2411.05849), arXiv.
