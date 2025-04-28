@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 # Journal publications
+* Betteti, S., Baggio, G., Bullo F., and Zampieri, S. (2025), ["_Input-Driven Dynamics for Robust Memory Retrieval in Hopfield Networks_"](https://www.science.org/doi/10.1126/sciadv.adu6991), Science Advances 11(17).
 
 # Conference publications
 * Betteti, S., Baggio, G., and Zampieri, S. (2024), ["_On the capacity of continuous-time Hopfield models_"](https://ieeexplore.ieee.org/document/10886497), 2024 63rd IEEE Conference on Decision and Control.
 
 # Pre-prints
-* Betteti S., Baggio G., Bullo F., and Zampieri S. (2024), ["_Input-Driven Dynamics for Robust Memory Retrieval in Hopfield Networks_"](https://arxiv.org/abs/2411.05849), arXiv.
 * Betteti S., Baggio G., Bullo F., and Zampieri S. (2024), ["_Firing Rate Models as Associative Memory: Excitatory-Inhibitory Balance for Robust Retrieval_"](https://arxiv.org/abs/2411.07388), arXiv.
 
 # Thesis
