@@ -21,4 +21,5 @@ I have lived most of my life in Italy, but throughout the years I have had short
 * Santa Barbara, CA, USA (2024-2025) - Visiting PhD student at UCSB under the supervision of Prof. [Francesco Bullo](https://fbullo.github.io/), 9 months
 
 **PRESS**
+
 [Energy and Memory: A Neural Network Paradigm](https://news.ucsb.edu/2025/021867/energy-and-memory-new-neural-network-paradigm) - Divulgatory article on input-driven neural networks.
