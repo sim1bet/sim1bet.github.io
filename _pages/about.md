@@ -19,3 +19,6 @@ I have lived most of my life in Italy, but throughout the years I have had short
 * Auckland, New Zealand (2013) - Exchange student at Birkenhead college, 6 months
 * Trondheim, Norway (2021) - Erasmus student at NTNU under the supervision of Prof. [Yasser Roudi](https://scholar.google.com/citations?user=-SXPaeYAAAAJ&hl=en), 6 months
 * Santa Barbara, CA, USA (2024-2025) - Visiting PhD student at UCSB under the supervision of Prof. [Francesco Bullo](https://fbullo.github.io/), 9 months
+
+**PRESS**
+[Energy and Memory: A Neural Network Paradigm](https://news.ucsb.edu/2025/021867/energy-and-memory-new-neural-network-paradigm) - Divulgatory article on input-driven neural networks.
