@@ -22,4 +22,4 @@ I have lived most of my life in Italy, but throughout the years I have had short
 
 **PRESS**
 
-[Energy and Memory: A Neural Network Paradigm](https://news.ucsb.edu/2025/021867/energy-and-memory-new-neural-network-paradigm) - Divulgatory article on input-driven neural networks.
+[Energy and Memory: A Neural Network Paradigm](https://news.ucsb.edu/2025/021867/energy-and-memory-new-neural-network-paradigm) - Discover with us how our experiences shape what we remember!
