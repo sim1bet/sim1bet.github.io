@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Journal publications
-* Betteti S., Baggio G., Bullo F., and Zampieri S. (2025), ["_Firing Rate Models as Associative Memory: Synaptic Design for Robust Retrieval_"](https://arxiv.org/abs/2411.07388), to appear (Neural Computation).
+* Betteti S., Baggio G., Bullo F., and Zampieri S. (2025), ["_Firing Rate Models as Associative Memory: Synaptic Design for Robust Retrieval_"](https://direct.mit.edu/neco/article-abstract/doi/10.1162/neco.a.28/132659/Firing-Rate-Models-as-Associative-Memory-Synaptic?redirectedFrom=fulltext), Neural Computation.
 * Betteti S., Baggio, G., Bullo F., and Zampieri, S. (2025), ["_Input-Driven Dynamics for Robust Memory Retrieval in Hopfield Networks_"](https://www.science.org/doi/10.1126/sciadv.adu6991), Science Advances 11(17).
 
 # Conference publications
