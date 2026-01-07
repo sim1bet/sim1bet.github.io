@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+From January 2026 I will be working at the Italian Institute of Artificial Intelligence for Industry ([AI4I](https://ai4i.it/)) as a research fellow (or post-doc) under the supervision of Prof. [Luca Laurenti](https://www.tudelft.nl/en/staff/l.laurenti/). My research centers on generative diffusion models, combining techniques from measure theory, probability theory, and stochastic calculus to rigorously analyze their dynamics and robustness. By developing theoretical guarantees on model trajectories, I aim to deepen our fundamental understanding of diffusion models and facilitate their trustworthy adoption in high-impact industrial settings.
 
-I am a Ph.D. student in **Information Engineering at the University of Padua** under the supervision of Prof. [Sandro Zampieri](https://scholar.google.it/citations?user=nq1QPJ0AAAAJ&hl=en), and co-supervised by Prof. [Giacomo Baggio](https://baggiogi.github.io/) and Prof. [Francesco Bullo](https://fbullo.github.io/). I am working on the mathematical analysis of recurrent neural network models, such as the **Hopfield model and the firing rate model**, using both standard algebraic tools for nonlinear systems and stochastic tools (S.D.E.s, Elliptic P.D.E.s, and Path integrals). 
+
+I have completed a Ph.D. in **Information Engineering at the University of Padua** under the supervision of Prof. [Sandro Zampieri](https://scholar.google.it/citations?user=nq1QPJ0AAAAJ&hl=en), and co-supervised by Prof. [Giacomo Baggio](https://baggiogi.github.io/) and Prof. [Francesco Bullo](https://fbullo.github.io/). I am working on the mathematical analysis of recurrent neural network models, such as the **Hopfield model and the firing rate model**, using both standard algebraic tools for nonlinear systems and stochastic tools (S.D.E.s, Elliptic P.D.E.s, and Path integrals). 
+
+Since February 2025, I am a member of the IEEE Entrepreneurship and Start-ups commettee for the [IEEE Italy Section]("https://italy.ieeer8.org/"). 
+Join us at DAMA Tecnopolo, in Bologna, for the [_AInnovation Start-up contest 2026_](https://ainnovation2026.ieeesezioneitalia.it/).
 
 
 My academic goal is understanding how complex cognitive functions emerge from the interaction of simple computational units, and leverage this knowledge to responsibly design smart systems and new technological solutions.
