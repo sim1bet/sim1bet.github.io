@@ -13,7 +13,7 @@ From January 2026 I will be working at the Italian Institute of Artificial Intel
 
 I have completed a Ph.D. in **Information Engineering at the University of Padua** under the supervision of Prof. [Sandro Zampieri](https://scholar.google.it/citations?user=nq1QPJ0AAAAJ&hl=en), and co-supervised by Prof. [Giacomo Baggio](https://baggiogi.github.io/) and Prof. [Francesco Bullo](https://fbullo.github.io/). I am working on the mathematical analysis of recurrent neural network models, such as the **Hopfield model and the firing rate model**, using both standard algebraic tools for nonlinear systems and stochastic tools (S.D.E.s, Elliptic P.D.E.s, and Path integrals). 
 
-Since February 2025, I am a member of the IEEE Entrepreneurship and Start-ups commettee for the [IEEE Italy Section]("https://italy.ieeer8.org/"). 
+Since February 2025, I am a member of the IEEE Entrepreneurship and Start-ups commettee for the [IEEE Italy Section](https://italy.ieeer8.org/). 
 Join us at DAMA Tecnopolo, in Bologna, for the [_AInnovation Start-up contest 2026_](https://ainnovation2026.ieeesezioneitalia.it/).
 
 
