@@ -13,11 +13,13 @@ author_profile: true
 * Betteti, S., Baggio, G., and Zampieri, S. (2024), ["_On the capacity of continuous-time Hopfield models_"](https://ieeexplore.ieee.org/document/10886497), 2024 63rd IEEE Conference on Decision and Control.
 
 # Pre-prints
-* Betteti S., and William R., and Alexander D., and Jorge C., and Francesco B. (2025). ["Competition, stability, and functionality in excitatory-inhibitory neural circuits"](https://arxiv.org/abs/2512.05252), arXiv.
-* Betteti S., and Bullo, F. (2025), ["Contraction and concentration of measures with applications to theoretical neuroscience"](https://arxiv.org/abs/2504.05666), arXiv.
+* Kawano Y., Betteti S., Davydov A., and Bullo F. (2026), ["Incremental Input-to-State Stability and Equilibrium Tracking for Stochastic Contracting Dynamics"](https://arxiv.org/abs/2602.18382), arXiv (under review).
+* Betteti S., Retnaraj W., Davydov A., Cortes J., and Bullo F. (2025), ["Competition, stability, and functionality in excitatory-inhibitory neural circuits"](https://arxiv.org/abs/2512.05252), arXiv.
+* Betteti S., and Bullo, F. (2025), ["Contraction and concentration of measures with applications to theoretical neuroscience"](https://arxiv.org/abs/2504.05666), arXiv (under review).
 
-# Abstracts
-* Betteti S., Baggio G., and Zampieri S. (2024) ["_Design and Stability of Dynamical Memory Networks: From Hopfield to Firing Rate Models_"](https://automatica2024.unibz.it/wp-content/uploads/2024/09/Proceedings-reduced-size.pdf), Automatica - Bolzano, IT.
+# Abstracts and workshops
+* Betteti S., Baggio G., and Zampieri S. (2026), ["A Dynamical Theory of Sequential Retrieval in Input-Driven Hopfield Networks"](https://arxiv.org/abs/2603.03201), New Frontiers in Associative Memory, ICLR - Rio De Janeiro, BR.
+* Betteti S., Baggio G., and Zampieri S. (2024), ["_Design and Stability of Dynamical Memory Networks: From Hopfield to Firing Rate Models_"](https://automatica2024.unibz.it/wp-content/uploads/2024/09/Proceedings-reduced-size.pdf), Automatica - Bolzano, IT.
 
 # Thesis
 * Simone Betteti (2022), [_"The Relationship between Multiscale Relevance and Network Properties in Simple Neural Networks of the Cortex"_](https://github.com/sim1bet/M.Sc.-Thesis/blob/main/TheRelationshipBetweenMSRandSimpleNNofTheCortex.pdf).
