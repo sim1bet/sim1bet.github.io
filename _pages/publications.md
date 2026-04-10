@@ -13,6 +13,7 @@ author_profile: true
 * Betteti, S., Baggio, G., and Zampieri, S. (2024), ["_On the capacity of continuous-time Hopfield models_"](https://ieeexplore.ieee.org/document/10886497), 2024 63rd IEEE Conference on Decision and Control.
 
 # Pre-prints
+* Betteti S., and Laurenti L. (2026), ["Hybrid Energy-Based Models for Physical AI: Provably Stable Identification of Port-Hamiltonian Dynamics"](https://arxiv.org/abs/2604.00277), arXiv (under review).
 * Kawano Y., Betteti S., Davydov A., and Bullo F. (2026), ["Incremental Input-to-State Stability and Equilibrium Tracking for Stochastic Contracting Dynamics"](https://arxiv.org/abs/2602.18382), arXiv (under review).
 * Betteti S., Retnaraj W., Davydov A., Cortes J., and Bullo F. (2025), ["Competition, stability, and functionality in excitatory-inhibitory neural circuits"](https://arxiv.org/abs/2512.05252), arXiv.
 * Betteti S., and Bullo, F. (2025), ["Contraction and concentration of measures with applications to theoretical neuroscience"](https://arxiv.org/abs/2504.05666), arXiv (under review).
