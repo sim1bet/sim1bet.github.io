@@ -10,9 +10,9 @@ author_profile: true
 * Betteti S., Baggio, G., Bullo F., and Zampieri, S. (2025), ["_Input-Driven Dynamics for Robust Memory Retrieval in Hopfield Networks_"](https://www.science.org/doi/10.1126/sciadv.adu6991), Science Advances 11(17).
 
 # Conference publications
-* Betteti S., Martin M., Pedersen M.G., Zampieri S. and Baggio G (2026), Memory flows: geometry and dynamics of sequential retrieval in input-driven Hopfield networks, NeurIPS 2026 (Accepted).
-* Betteti S., and Laurenti L. (2026), ["Hybrid Energy-Based Models for Physical AI: Provably Stable Identification of Port-Hamiltonian Dynamics"](https://arxiv.org/abs/2604.00277), 2026 65th IEEE Conference on Decision and Control (Accepted).
-* Retnaraj W., Betteti S., Davydov A., Bullo F., and Cortes J. (2026), ["Timescale Limits of Linear-Threshold Networks"](https://arxiv.org/abs/2604.16710), 2026 65th IEEE Conference on Decision and Control (Accepted).
+* Betteti S., Martin M., Pedersen M.G., Zampieri S. and Baggio G (2026), _Memory Flows: Geometry and Dynamics of Sequential Retrieval in Input-Driven Hopfield Networks_, NeurIPS 2026 (Accepted).
+* Betteti S., and Laurenti L. (2026), ["_Hybrid Energy-Based Models for Physical AI: Provably Stable Identification of Hamiltonian Dynamics_"](https://arxiv.org/abs/2604.00277), 2026 65th IEEE Conference on Decision and Control (Accepted).
+* Retnaraj W., Betteti S., Davydov A., Bullo F., and Cortes J. (2026), ["_Timescale Limits of Linear-Threshold Networks_"](https://arxiv.org/abs/2604.16710), 2026 65th IEEE Conference on Decision and Control (Accepted).
 * Betteti, S., Baggio, G., and Zampieri, S. (2024), ["_On the capacity of continuous-time Hopfield models_"](https://ieeexplore.ieee.org/document/10886497), 2024 63rd IEEE Conference on Decision and Control.
 
 # Pre-prints
